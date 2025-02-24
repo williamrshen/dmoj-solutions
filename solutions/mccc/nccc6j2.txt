@@ -1,0 +1,1 @@
+print((lambda x : sum([1 for i in range (len(x)) if x[i] != "pusheen"[i]]))(input()))

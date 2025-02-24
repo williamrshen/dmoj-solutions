@@ -1,0 +1,1 @@
+print(__import__('sys').stdin.read().split('\n').count('P'))

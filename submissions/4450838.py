@@ -1,0 +1,1 @@
+print( (lambda x : (lambda y : 1 if abs(y**2 - x) < abs(int(input())**2 - x)else 2) (int(input()))) (int(input())) )

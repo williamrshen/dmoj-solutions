@@ -1,0 +1,1 @@
+exec("""\ndef f(x): return 0 if (x > n) else f(10 * x + 2) + 1 + f(10 * x + 3)\nn = int(input())\nprint(f(0) - 1)\n""")

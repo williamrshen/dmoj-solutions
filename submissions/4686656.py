@@ -1,0 +1,1 @@
+print((t := lambda x : 1 if x == 1 else t(x // 2) + 1 if x % 2 == 0 else t(3 * x + 1) + 1)(int(input())) - 1)

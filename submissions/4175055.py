@@ -1,0 +1,1 @@
+print(str(ord("G") - ord("(")) + str(ord(")")) + str(ord(";")) + " " + str(ord("C") - ord("(")) + str(ord(":") - ord("(")) + str(ord("D") - ord("(")))

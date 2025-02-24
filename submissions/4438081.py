@@ -1,0 +1,1 @@
+print("good" if sum([1 for x in input() if x in "aeiouy"]) > 1 else "bad")

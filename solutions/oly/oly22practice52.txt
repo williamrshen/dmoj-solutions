@@ -1,0 +1,1 @@
+print("YES" if input().lower().count("z") >= 3 else "NO")

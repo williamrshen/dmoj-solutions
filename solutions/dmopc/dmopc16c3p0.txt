@@ -1,0 +1,1 @@
+print((lambda x : float(x[0])*(1.0+float(x[1])/float(x[2])))(list(map(int, input().split()))))

@@ -1,0 +1,1 @@
+print(sum([(x+1)**3 for x in range(int(input()))]))

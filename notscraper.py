@@ -3,11 +3,13 @@ import json
 
 dir = 'submissions'
 cdir = 'solutions'
-with open('info.json', 'r') as info:
+with open('submissions/info.json', 'r') as info:
     data = json.load(info)
     for subs in os.listdir(dir):
         sub = os.path.join(dir, subs)
         f = sub[sub.index('\\') + 1: sub.index('.')]
+        if not f.isdigit():
+            continue
 
         code = data[f]["problem"]
         path = f"{cdir}/{code}.txt"

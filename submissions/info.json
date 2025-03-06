@@ -15481,55 +15481,55 @@
         "case_total": 100.0,
         "date": "2025-02-05T05:31:31+00:00",
         "language": "CPP17",
-        "memory": 72664.0,
+        "memory": 72520.0,
         "problem": "othscc2p4",
         "result": "AC",
         "status": "D",
-        "time": 14.730205722000001
+        "time": 14.632522364000002
     },
     "6950530": {
         "case_points": 100.0,
         "case_total": 100.0,
         "date": "2025-02-05T05:31:53+00:00",
         "language": "CPP17",
-        "memory": 72680.0,
+        "memory": 72676.0,
         "problem": "othscc2p4",
         "result": "AC",
         "status": "D",
-        "time": 8.672729015
+        "time": 8.770634051999998
     },
     "6951963": {
         "case_points": 100.0,
         "case_total": 100.0,
         "date": "2025-02-05T19:28:23+00:00",
         "language": "CPP17",
-        "memory": 4976.0,
+        "memory": 4988.0,
         "problem": "set",
         "result": "AC",
         "status": "D",
-        "time": 0.038247840000000005
+        "time": 0.038781265999999995
     },
     "6952381": {
         "case_points": 100.0,
         "case_total": 100.0,
         "date": "2025-02-05T21:44:22+00:00",
         "language": "PYPY3",
-        "memory": 252640.0,
+        "memory": 253300.0,
         "problem": "dmopc21c4p2",
         "result": "AC",
         "status": "D",
-        "time": 5.905148723
+        "time": 5.991197354999999
     },
     "6952468": {
         "case_points": 100.0,
         "case_total": 100.0,
         "date": "2025-02-05T22:24:14+00:00",
         "language": "CPP17",
-        "memory": 16340.0,
+        "memory": 16324.0,
         "problem": "dmopc21c4p2",
         "result": "AC",
         "status": "D",
-        "time": 5.008029029
+        "time": 5.038184529
     },
     "6971014": {
         "case_points": 15.0,
@@ -15739,5 +15739,247 @@
         "result": "AC",
         "status": "D",
         "time": 0.5303333309999999
+    },
+    "7039271": {
+        "case_points": 15.0,
+        "case_total": 15.0,
+        "date": "2025-02-26T16:18:31+00:00",
+        "language": "CPP17",
+        "memory": 3416.0,
+        "problem": "ccc08j4",
+        "result": "AC",
+        "status": "D",
+        "time": 0.003819548
+    },
+    "7039291": {
+        "case_points": 15.0,
+        "case_total": 15.0,
+        "date": "2025-02-26T16:31:25+00:00",
+        "language": "PYPY3",
+        "memory": 105944.0,
+        "problem": "mccc5j3",
+        "result": "AC",
+        "status": "D",
+        "time": 2.175530454
+    },
+    "7039306": {
+        "case_points": 16.0,
+        "case_total": 16.0,
+        "date": "2025-02-26T16:41:56+00:00",
+        "language": "CPP17",
+        "memory": 4376.0,
+        "problem": "ccc14s3",
+        "result": "AC",
+        "status": "D",
+        "time": 0.18310103200000002
+    },
+    "7039867": {
+        "case_points": 100.0,
+        "case_total": 100.0,
+        "date": "2025-02-26T20:14:15+00:00",
+        "language": "CPP17",
+        "memory": 7336.0,
+        "problem": "year2017p1",
+        "result": "AC",
+        "status": "D",
+        "time": 0.39309989900000003
+    },
+    "7039878": {
+        "case_points": 100.0,
+        "case_total": 100.0,
+        "date": "2025-02-26T20:22:45+00:00",
+        "language": "CPP17",
+        "memory": 6296.0,
+        "problem": "stack1",
+        "result": "AC",
+        "status": "D",
+        "time": 0.29052980700000003
+    },
+    "7039928": {
+        "case_points": 15.0,
+        "case_total": 15.0,
+        "date": "2025-02-26T21:02:59+00:00",
+        "language": "CPP20",
+        "memory": 3668.0,
+        "problem": "mccc4j4",
+        "result": "AC",
+        "status": "D",
+        "time": 0.6802906679999997
+    },
+    "7040090": {
+        "case_points": 15.0,
+        "case_total": 15.0,
+        "date": "2025-02-26T22:21:13+00:00",
+        "language": "CPP17",
+        "memory": 19252.0,
+        "problem": "mccc5j3",
+        "result": "AC",
+        "status": "D",
+        "time": 1.9540516480000003
+    },
+    "7040092": {
+        "case_points": 15.0,
+        "case_total": 15.0,
+        "date": "2025-02-26T22:21:41+00:00",
+        "language": "CPP17",
+        "memory": 19248.0,
+        "problem": "mccc5j3",
+        "result": "AC",
+        "status": "D",
+        "time": 2.019254493000001
+    },
+    "7040099": {
+        "case_points": 15.0,
+        "case_total": 15.0,
+        "date": "2025-02-26T22:23:08+00:00",
+        "language": "CPP17",
+        "memory": 19292.0,
+        "problem": "mccc5j3",
+        "result": "AC",
+        "status": "D",
+        "time": 2.082717005
+    },
+    "7040125": {
+        "case_points": 15.0,
+        "case_total": 15.0,
+        "date": "2025-02-26T22:30:39+00:00",
+        "language": "CPP17",
+        "memory": 17708.0,
+        "problem": "mccc5j3",
+        "result": "AC",
+        "status": "D",
+        "time": 2.0085048210000003
+    },
+    "7040128": {
+        "case_points": 15.0,
+        "case_total": 15.0,
+        "date": "2025-02-26T22:31:30+00:00",
+        "language": "CPP17",
+        "memory": 16172.0,
+        "problem": "mccc5j3",
+        "result": "AC",
+        "status": "D",
+        "time": 3.5830590050000004
+    },
+    "7040164": {
+        "case_points": 15.0,
+        "case_total": 15.0,
+        "date": "2025-02-26T22:41:15+00:00",
+        "language": "PY3",
+        "memory": 71180.0,
+        "problem": "mccc5j3",
+        "result": "AC",
+        "status": "D",
+        "time": 2.8713833419999997
+    },
+    "7040167": {
+        "case_points": 15.0,
+        "case_total": 15.0,
+        "date": "2025-02-26T22:42:05+00:00",
+        "language": "PY3",
+        "memory": 71296.0,
+        "problem": "mccc5j3",
+        "result": "AC",
+        "status": "D",
+        "time": 2.9877477299999997
+    },
+    "7040395": {
+        "case_points": 15.0,
+        "case_total": 15.0,
+        "date": "2025-02-27T00:35:33+00:00",
+        "language": "PY3",
+        "memory": 11632.0,
+        "problem": "ccc25s1",
+        "result": "AC",
+        "status": "D",
+        "time": 1.880172391
+    },
+    "7040534": {
+        "case_points": 15.0,
+        "case_total": 15.0,
+        "date": "2025-02-27T02:07:28+00:00",
+        "language": "PYPY3",
+        "memory": 69828.0,
+        "problem": "ccc25s2",
+        "result": "AC",
+        "status": "D",
+        "time": 7.170185507999999
+    },
+    "7042053": {
+        "case_points": 5.0,
+        "case_total": 5.0,
+        "date": "2025-02-27T21:56:08+00:00",
+        "language": "CPP17",
+        "memory": 6308.0,
+        "problem": "wossoly23team1",
+        "result": "AC",
+        "status": "D",
+        "time": 0.674983562
+    },
+    "7042184": {
+        "case_points": 300.0,
+        "case_total": 300.0,
+        "date": "2025-02-27T23:18:18+00:00",
+        "language": "CPP11",
+        "memory": 3608.0,
+        "problem": "a4b1",
+        "result": "AC",
+        "status": "D",
+        "time": 0.007296093
+    },
+    "7049694": {
+        "case_points": 100.0,
+        "case_total": 100.0,
+        "date": "2025-03-04T00:09:00+00:00",
+        "language": "CPP17",
+        "memory": 11280.0,
+        "problem": "dmopc18c2p3",
+        "result": "AC",
+        "status": "D",
+        "time": 0.9368071360000001
+    },
+    "7049695": {
+        "case_points": 100.0,
+        "case_total": 100.0,
+        "date": "2025-03-04T00:09:30+00:00",
+        "language": "CPP17",
+        "memory": 11300.0,
+        "problem": "dmopc18c2p3",
+        "result": "AC",
+        "status": "D",
+        "time": 0.9361523439999999
+    },
+    "7053732": {
+        "case_points": 100.0,
+        "case_total": 100.0,
+        "date": "2025-03-06T16:46:18+00:00",
+        "language": "CPP17",
+        "memory": 3748.0,
+        "problem": "seed2",
+        "result": "AC",
+        "status": "D",
+        "time": 0.020805101
+    },
+    "7053868": {
+        "case_points": 8.0,
+        "case_total": 8.0,
+        "date": "2025-03-06T19:23:41+00:00",
+        "language": "CPP17",
+        "memory": 4424.0,
+        "problem": "coci12c3p4",
+        "result": "AC",
+        "status": "D",
+        "time": 0.17377379599999998
+    },
+    "7053877": {
+        "case_points": 8.0,
+        "case_total": 8.0,
+        "date": "2025-03-06T19:26:07+00:00",
+        "language": "CPP17",
+        "memory": 4384.0,
+        "problem": "coci12c3p4",
+        "result": "AC",
+        "status": "D",
+        "time": 0.17396516499999998
     }
 }

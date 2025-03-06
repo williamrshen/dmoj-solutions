@@ -1,0 +1,1 @@
+print((lambda x : sorted(list(map(int, input().split(" "))))[x // 2])(int(input())))

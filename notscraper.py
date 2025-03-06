@@ -13,17 +13,27 @@ with open('submissions/info.json', 'r') as info:
 
         code = data[f]["problem"]
         path = f"{cdir}/{code}.txt"
+        lang = data[f]["language"]
+        if "PY" in lang:
+            lang = ".py"
+        elif "JAVA" in lang:
+            lang = ".java"
+        elif "CPP" in lang:
+            lang = ".cpp"
+        else:
+            lang = ".txt"
+
 
         categories = ['aac', 'ccc', 'coci', 'dmopc', 'mccc', 'oly', 'sac']
         categorized = False
         
         for x in categories:
             if x in path:
-                path = f"{cdir}/{x}/{code}.txt"
+                path = f"{cdir}/{x}/{code}{lang}"
                 categorized = True
         
         if not categorized:
-            path = f"{cdir}/other/{code}.txt"
+            path = f"{cdir}/other/{code}{lang}"
         
         if os.path.exists(path):
             continue

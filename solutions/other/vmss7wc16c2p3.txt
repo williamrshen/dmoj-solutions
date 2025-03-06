@@ -15,14 +15,14 @@ int n, m, a1[MN], a2[MN], dp[MN], out;
 
 int32_t main() {
 	cin.tie(0); cin.sync_with_stdio(0);
-	cin >> n;
+	scan(n);
 	for (int i = 1; i <= n; i++) {
-		int x; cin >> x;
+		int x; scan(x);
 		a1[x] = i;
 	}
-	cin >> m;
+	scan(m);
 	for (int i = 1; i <= m; i++) {
-		int x; cin >> x;
+		int x; scan(x);
 		a2[i] = a1[x];
 	}
 	for (int i = 1; i <= m; i++) {

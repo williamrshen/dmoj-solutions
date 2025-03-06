@@ -1,0 +1,1 @@
+print(__import__('math').floor(__import__('math').sqrt(int(input()))))
